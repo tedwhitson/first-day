@@ -1,2 +1,2 @@
-# first-day-repo
+# first-day
 First day repo
